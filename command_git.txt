@@ -1,0 +1,76 @@
+git branch -a  
+git branch -a  
+git checkot .  
+git checkout .  
+git checkout .  
+git checkout .  
+git checkout .  
+git checkout .  
+git checkout .  
+git checkout -b nj_smgp origin/nj_smgp
+git checkout -b nj_smgp origin/nj_smgp
+git checkout mq2/cmn_util/nj_smgp.py  
+git checkout mq2/cmn_util/nj_smgp.py  
+git checkout nj_smgp  
+git checkout nj_smgp  
+git checkout nj_smgp/start.py  
+git checkout nj_smgp/start.py  
+git checkout nj_smgp/start.py nj_smgp/encoding.py 
+git checkout ../py_util/internal_forward/gen_internal_client.py  
+git clone https://micyng@bitbucket.org/micyng/linktop_css.git  
+git clone https://micyng@bitbucket.org/micyng/linktop_css.git  
+git diff   
+git diff encoding.py  
+git diff ../mq2/cmn_util/  
+git diff start.py  
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git pull origin nj_smgp 
+git statu   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
+git status   
